@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/penieltalents/Easy-Bank.git)
-- Live Site URL: [Add live site URL here](https://cozy-maamoul-447ef2.netlify.app/)
+- Solution URL: [https://github.com/penieltalents/Easy-Bank.git]()
+- Live Site URL: [https://cozy-maamoul-447ef2.netlify.app/]()
 
 ## My process
 
