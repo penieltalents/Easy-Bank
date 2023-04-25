@@ -184,6 +184,7 @@ button {
     background-color: white;
     border-radius: 10px;
     padding-bottom: 25px;
+    box-shadow: 0 8px 9px -9px black;
 }
 
 .container_text {
@@ -719,7 +720,20 @@ button:hover {
     }
 }
 
+@media all and (max-width: 450px){
+    .margin_inline {
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+}
+
 @media all and (max-width: 377px) {
+
+    .margin_inline {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
     .hero_font {
         font-size: .6em;
     }
